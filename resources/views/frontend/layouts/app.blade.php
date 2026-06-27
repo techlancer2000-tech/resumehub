@@ -11,7 +11,7 @@
 
     <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
-    <link rel="icon" type="image/png" href="/theme/images/logo/LOGO_FAVICON.png">
+    <link rel="icon" type="image/png" href="{{ asset('theme/images/logo/RH_FAVICON.png') }}">
 
     <style>
         :root{
